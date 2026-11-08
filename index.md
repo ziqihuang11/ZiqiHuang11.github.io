@@ -16,7 +16,7 @@ I am a PhD student in the Department of Electrical and Computer Engineering at M
   <li>
     <strong>Graphon Mean Field Games with Control Constraints Dependent upon State and Control Mean Fields</strong> <a href="files/CDC26_1402_FI_20261006.pdf">[PDF]</a>
     <br> Z. Huang and P. E. Caines
-    <br> IEEE Conference on Decision and Control, April 2026 (Accepted)
+    <br> 65th IEEE Conference on Decision and Control, April 2026 (Accepted)
   </li>
   <li>
     <strong>Conformism–Individualism Trade-offs in LQG Graphon MFG with Control Mean Field Costs</strong> <a href="files/IFAC_20260519_m.pdf">[PDF]</a>
@@ -36,8 +36,8 @@ I am a PhD student in the Department of Electrical and Computer Engineering at M
 ## Reviewer
 
 * Automatica
-* IEEE Conference on Decision and Control (CDC)
-* IFAC Conference on Networked Systems (NecSys)
+* IEEE Conference on Decision and Control (CDC 2026)
+* IFAC Conference on Networked Systems (NecSys 2025)
 
 ## Teaching Assistant
 
